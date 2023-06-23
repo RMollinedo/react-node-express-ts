@@ -1,4 +1,4 @@
-# React nodejs ts
+# React node express ts
 This is an example of an admin app, it uses react, node express, and typescript.
 
 The following commands are used:
