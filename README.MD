@@ -6,7 +6,7 @@ The following commands are used:
 ### `pnpm start`
 Runs the backend.
 
-### `vite dev`
+### `pnpm dev`
 Runs the frontend.
 
 The following commands are used to seed the database:
